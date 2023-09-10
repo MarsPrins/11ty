@@ -1,1 +1,1 @@
-# A vlog site using eleventy templating language
+# A blog site using eleventy templating language
